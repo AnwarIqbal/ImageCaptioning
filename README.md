@@ -17,7 +17,7 @@ The model focused on generating decription for images with structures in New Zea
 
 <image src = "Images/Architecture.png">
 
-Feature Extraction of Images: it is the Inception V3 model trained beforehand on the ImageNet dataset. As mentioned in the previous step we have preprocessed the images with Inception V3, without the output layer, The features thus extracted will act as an input for this model.
+Feature Extraction of Images: features from the images were preprocessed using with Inception V3, without the output layer, The features thus extracted will act as an input for this model.
 
 Processing of Sequence: This is the Gated Recurrent Unit neural network layer for word embedding pre-trained on GloVe model for text input handling.
 
