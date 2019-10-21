@@ -29,6 +29,10 @@ Decoder: The output from the above two parts is a vector of fixed length which i
 
 <image src = "Images/GRUModel.png">
 
+**Results for some of the captions generated are mentioned below:
+
+<image src = "Images/Flow.png">
+  
 
 # References
 Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., & Wojna, Z. (2016). Rethinking the inception architecture for computer vision. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2818-2826).
