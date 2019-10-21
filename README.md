@@ -1,11 +1,17 @@
 # ImageCaptioning
 
+File Descriptions:
 1) CleanDescription.ipynb - Data Cleaning
 2) Pickly.ipynb - Features Extraction
 3) GRUInceptionV3.ipynb - Caption Generating Model
 
-<image src = "Images/Architecture.png">
+The Methodology adopted is shown below:
 <image src = "Images/Flow.png">
+
+Encoder Decoder Merge Model Architecture is adopted as shown below:
+<image src = "Images/Architecture.png">
+
+Summary of the architecture is shown below:
 <image src = "Images/GRUModel.png">
 
 
