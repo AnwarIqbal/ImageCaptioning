@@ -5,17 +5,17 @@ File Descriptions:
 2) Pickly.ipynb - Features Extraction
 3) GRUInceptionV3.ipynb - Caption Generating Model
 
-The Methodology adopted is shown below:
+**The Methodology adopted is shown below:**
 
 
 <image src = "Images/Flow.png">
 
-Encoder Decoder Merge Model Architecture is adopted as shown below:
+**Encoder Decoder Merge Model Architecture is adopted as shown below:**
 
 
 <image src = "Images/Architecture.png">
 
-Summary of the architecture is shown below:
+**Summary of the architecture is shown below:**
 
 
 <image src = "Images/GRUModel.png">
