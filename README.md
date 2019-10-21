@@ -1,10 +1,10 @@
 # ImageCaptioning
-Automatic generation of description for images
 
 1) CleanDescription.ipynb - Data Cleaning
-2) Pickly.ipynb - Pickles
+2) Pickly.ipynb - Features Extraction
+3) GRUInceptionV3.ipynb - Caption Generating Model
 
-
+[](images/Architecture.png)
 
 # References
 Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., & Wojna, Z. (2016). Rethinking the inception architecture for computer vision. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2818-2826).
