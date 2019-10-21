@@ -31,6 +31,7 @@ Decoder: The output from the above two parts is a vector of fixed length which i
 
 **Results for some of the captions generated are mentioned below:**
 
+
 <image src = "Images/Flow.png">
   
 
