@@ -6,12 +6,18 @@ File Descriptions:
 3) GRUInceptionV3.ipynb - Caption Generating Model
 
 The Methodology adopted is shown below:
+
+
 <image src = "Images/Flow.png">
 
 Encoder Decoder Merge Model Architecture is adopted as shown below:
+
+
 <image src = "Images/Architecture.png">
 
 Summary of the architecture is shown below:
+
+
 <image src = "Images/GRUModel.png">
 
 
