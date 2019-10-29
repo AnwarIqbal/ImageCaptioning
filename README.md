@@ -2,7 +2,7 @@
 
 File Descriptions:
 1) CleanDescription.ipynb - Data Cleaning
-2) Pickly.ipynb - Features Extraction
+2) Pickle.ipynb - Features Extraction
 3) GRUInceptionV3.ipynb - Caption Generating Model
 
 The model focused on generating decription for images with structures in New Zealand. The training dataset contained images available in public domain on social media platforms, captions of which were manually created.
